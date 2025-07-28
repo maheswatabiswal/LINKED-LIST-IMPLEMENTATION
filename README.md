@@ -54,3 +54,4 @@ Overall, this task was a valuable exercise in logic building, pointer management
 
 *OUTPUT*:
 
+<img width="1919" height="1020" alt="Image" src="https://github.com/user-attachments/assets/38f602b1-60e3-482b-9c31-2f42e43bd7d6" />
